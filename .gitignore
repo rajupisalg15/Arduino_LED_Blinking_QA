@@ -1,0 +1,8 @@
+*.hex
+*.elf
+*.eep
+*.map
+build/
+.cache/
+.vscode/
+.idea/
